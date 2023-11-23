@@ -29,3 +29,6 @@ python misc/load_stats.py
       -c src/train_config.json \
       -wk "YOUR_WANDB_API_KEY"
    ```
+
+#### Тестовые записи
+Test audios with different alpha, beta, gamma are available in [test_audios](test_audios) directory
